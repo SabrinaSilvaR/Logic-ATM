@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1702680625 source:c:\users\sabri\desktop\c++\atm\main.cpp
+	<iostream>
+	"function.h"
+
+1702680596 c:\users\sabri\desktop\c++\atm\function.cpp
+	<iostream>
+	"function.h"
+
+1702680596 source:c:\users\sabri\desktop\c++\atm\function.cpp
+	<iostream>
+	"function.h"
+
+1702680381 c:\users\sabri\desktop\c++\atm\function.h
+
